@@ -1,0 +1,12 @@
+/Users/marcoguzman/csharp-practice/bin/Debug/netcoreapp3.1/csharp-practice.deps.json
+/Users/marcoguzman/csharp-practice/bin/Debug/netcoreapp3.1/csharp-practice.runtimeconfig.json
+/Users/marcoguzman/csharp-practice/bin/Debug/netcoreapp3.1/csharp-practice.runtimeconfig.dev.json
+/Users/marcoguzman/csharp-practice/bin/Debug/netcoreapp3.1/csharp-practice.dll
+/Users/marcoguzman/csharp-practice/bin/Debug/netcoreapp3.1/csharp-practice.pdb
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.csprojAssemblyReference.cache
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.AssemblyInfoInputs.cache
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.AssemblyInfo.cs
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.dll
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.pdb
+/Users/marcoguzman/csharp-practice/obj/Debug/netcoreapp3.1/csharp-practice.genruntimeconfig.cache
